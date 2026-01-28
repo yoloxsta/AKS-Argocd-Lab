@@ -6,7 +6,7 @@ spec:
   selector:
     app: todo-app
 
-  type: LoadBalancer
+  type: ClusterIP
   ports:
   - port: 80
     protocol: TCP

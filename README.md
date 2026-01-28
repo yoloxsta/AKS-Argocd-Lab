@@ -19,6 +19,5 @@ To deploy the manifests, you can use ArgoCD to sync the `kube_manifest` director
 
 If you would like to contribute to the manifests in this repository, please fork the repository and submit a pull request with your changes. All changes must be reviewed and approved by a member of the team before they can be merged into the repository.
 
-## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
