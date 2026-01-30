@@ -19,5 +19,8 @@ To deploy the manifests, you can use ArgoCD to sync the `kube_manifest` director
 
 If you would like to contribute to the manifests in this repository, please fork the repository and submit a pull request with your changes. All changes must be reviewed and approved by a member of the team before they can be merged into the repository.
 
+====
+- https://joeloduyemi.hashnode.dev/how-to-install-argocd-on-an-aks-cluster?__cf_chl_rt_tk=QIJ31lcHqYvAY6wF3ojgzIDqkRLT32OWzf8FkQ8TM.Y-1769612601-1.0.1.1-SXjKdbiyX_PhrChwvt6RbrZ0SeIxrF4jv7WtPn.i0pE
+
 
 
